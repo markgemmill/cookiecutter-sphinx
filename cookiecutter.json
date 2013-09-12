@@ -1,0 +1,11 @@
+{
+    "full_name": "Mark Gemmill",
+    "email": "mark.gemmill@gmail.com",
+    "github_username": "markgemmill",
+    "project_name": "Python Documentation Boilerplate",
+    "repo_name": "pydocs",
+    "project_short_description": "Python Documentation Boilerplate contains all the boilerplate you need to create sphinx documentation.",
+    "release_date": "2013-08-11",
+    "year": "2013",
+    "version": "0.1.0"
+}
